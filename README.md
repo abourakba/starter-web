@@ -16,4 +16,7 @@ https://meettheipsums.com/
 
 ## Section a mettre dans le local Repo 
 VOila la section local repo 
+## Section pour la staging area
+Text pour faire semblant 
 
+## Changement non commite dans le working directory 
