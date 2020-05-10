@@ -13,6 +13,7 @@ https://meettheipsums.com/
 ## Dployement 
 
 ## How to Contribute 
+ Please fork the repo and issue a pull request 
 
 ## Section a mettre dans le local Repo 
 VOila la section local repo 
