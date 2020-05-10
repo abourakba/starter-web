@@ -1,0 +1,5 @@
+# fichier systeme Mac Os
+.DS_Store
+# fichier de log
+*.log
+log/
