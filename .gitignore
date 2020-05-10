@@ -3,3 +3,4 @@
 # fichier de log
 *.log
 log/
+**/*.orig
