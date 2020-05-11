@@ -27,5 +27,5 @@ Text pour faire semblant
 ## Changement non commite dans le working directory 
 
 ## Copyright
-2014 Git.Training
+2014 Git.Training. All right reserved !
 
