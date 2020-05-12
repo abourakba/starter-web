@@ -29,3 +29,5 @@ Text pour faire semblant
 ## Copyright
 2014 Git.Training. All right reserved !
 Stash 2
+
+ajout d'une ligne pour faire une comparaison 
