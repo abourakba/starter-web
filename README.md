@@ -33,3 +33,6 @@ Stash 2
 ajout d'une ligne pour faire une comparaison 
 
 Une autre modification 
+
+j'ajoute une ligne pour tester le pull avec le ssh  
+
